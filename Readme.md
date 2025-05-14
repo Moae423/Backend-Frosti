@@ -46,6 +46,8 @@ PORT = {`PORT YOU GONNA USE`}
 DATABASE_URL="postgresql://USERNAME:PASSWORD@HOSTNAME/DB_NAME?schema=public"
 ```
 
+_You can use another Database like sqlite, mysql, mongodb etc. just cheeck in prisma documentation_
+
 5. generate with ORM Prisma
 
 ```bash
