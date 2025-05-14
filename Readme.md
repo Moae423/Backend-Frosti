@@ -60,7 +60,7 @@ npx prisma generate
 npx prisma migrate dev
 ```
 
-    ![My Migration Name](./images/Migration.png)
+![My Migration Name](./images/Migration.png)
 
 7. Test your backend with API Client before we use it in Front End. and this is the result
    ![Create Data](<./images/Create%20Data%20(POST).png>)
