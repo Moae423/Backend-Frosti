@@ -1,3 +1,25 @@
+# Frosti High School
+
+This is a fullstack development web application built with Next.JS on the frontend and Express.js on the backend. And I use PostgreSQL for the database, and the backend communicates with the frontend via REST API, using Postman or Bruno as API Client.
+
+The purpose of this project is to get to know about RESTful API, and what REST API is for.
+
+## Tech Stack
+
+Technology i used for this fullstack project
+
+### Front-End
+
+[Next JS](https://nextjs.org/)
+
+### Back-End
+
+- **Server:** [Express JS](https://expressjs.com/)
+
+- **Database:** [PostgreSQL](https://www.postgresql.org/)
+
+- **ORM Database :** [Prisma](https://www.prisma.io/)
+
 ## Installation For Test
 
 **Important : Make sure you installed Postgresql + Node, If You not install right now!!!!**
