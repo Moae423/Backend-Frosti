@@ -40,12 +40,12 @@ npx prisma migrate dev
 
 7. Test your backend with API Client before we use it in Front End. and this is the result
    ![Create Data](<./images/Create%20Data%20(POST).png>)
-   _Figure 1: Create Data_
+   _1: Create Data_
    ![Create Data](<./images/get all data.png>)
-   _Figure 1: Get All Data_
+   _2: Get All Data_
    ![Create Data](<./images/GET data by id.png>)
-   _Figure 1: Get Data By Id_
+   _3: Get Data By Id_
    ![Create Data](<./images/PUT update data.png>)
-   _Figure 1: Update Data_
+   _4: Update Data_
    ![Create Data](./images/image.png)
-   _Figure 1: Update Data_
+   _5: Update Data_
