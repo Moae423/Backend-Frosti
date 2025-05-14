@@ -1,4 +1,4 @@
-# Frosti High School
+# 📖 Frosti High School
 
 Frosti High School Project is a fullstack development web application built with Next.JS on the frontend and Express.js on the backend And I use PostgreSQL for the database, the backend communicates with the frontend via REST API, using Postman or Bruno as API Client.
 
