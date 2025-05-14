@@ -70,4 +70,4 @@ npx prisma migrate dev
    ![Create Data](<./images/PUT update data.png>)
    _4: Update Data_
    ![Create Data](./images/image.png)
-   _5: Update Data_
+   _5: Delete Data_
