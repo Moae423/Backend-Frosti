@@ -1,8 +1,8 @@
 # Frosti High School
 
-This is a fullstack development web application built with Next.JS on the frontend and Express.js on the backend. And I use PostgreSQL for the database, and the backend communicates with the frontend via REST API, using Postman or Bruno as API Client.
+Frosti High School Project is a fullstack development web application built with Next.JS on the frontend and Express.js on the backend And I use PostgreSQL for the database, the backend communicates with the frontend via REST API, using Postman or Bruno as API Client.
 
-The purpose of this project is to get to know about RESTful API, and what REST API is for.
+The purpose of this project is to get to know about REST API, and what REST API is for.
 
 ## Tech Stack
 
